@@ -53,13 +53,6 @@
 
 ---
 
-### 🐍 Atividade recente animada
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/igor-costa02/igor-costa02/output/github-contribution-grid-snake.svg" alt="Atividade recente animada" />
-</p>
-
----
 
 ### 🤝 Vamos nos conectar?
 
